@@ -3,7 +3,7 @@
   "maintainers": [
     "jaspertvdm"
   ],
-  "name": "TIBET-Chip",
+  "name": "Humotica - TIBET-Chip",
   "description": "Micro-trust system for resource-constrained environments using SHA-256 provenance",
   "repository": "https://github.com/jaspertvdm/tibet-chip",
   "license": "MIT",
