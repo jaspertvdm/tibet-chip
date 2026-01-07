@@ -1,1 +1,11 @@
-{"$schema":"https://glama.ai/mcp/schemas/server.json","maintainers":["jaspertvdm"]}
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "jaspertvdm"
+  ],
+  "name": "TIBET-Chip",
+  "description": "Micro-trust system for resource-constrained environments using SHA-256 provenance",
+  "repository": "https://github.com/jaspertvdm/tibet-chip",
+  "license": "MIT",
+  "homepage": "https://humotica.com"
+}
