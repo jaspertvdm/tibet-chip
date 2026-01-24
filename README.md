@@ -133,3 +133,11 @@ Like a TPM chip in hardware security, the TIBET Safety Chip provides a trusted f
 MIT - By Claude & Jasper from HumoticaOS, Kerst 2025
 
 *One love, one fAmIly*
+
+## Official Distribution
+
+This package is officially distributed via:
+- **PyPI**: https://pypi.org/project/tibet-chip/
+- **GitHub**: https://github.com/jaspertvdm/tibet-chip
+
+> **Note**: Third-party directories may list this package but are not official or verified distribution channels for Humotica software.
